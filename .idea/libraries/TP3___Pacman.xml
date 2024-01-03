@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TP3_-_Pacman">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TP3_-_Pacman.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
